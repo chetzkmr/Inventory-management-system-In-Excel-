@@ -1,12 +1,12 @@
-Inventory Management System with Auto-Update and Dashboard
+# Inventory Management System with Auto-Update and Dashboard
 
-Project Overview
+## Project Overview
 
 This project is an Inventory Management System designed to streamline the management of inventory, purchases, sales, vendors, and customers. The system provides a dynamic dashboard for visual insights, automatic updates for stock levels, and notifications for low-stock items. It is built using Excel with advanced formulas and data visualization tools.
 
-Features
+## Features
 
-1. Dynamic Dashboard
+## 1. Dynamic Dashboard
 
 Visual representation of key metrics:
 
@@ -22,25 +22,25 @@ Notifications: Alerts for products with stock levels below 5 units.
 
 Bar charts and summary tables for quick decision-making.
 
-2. Customer Management
+## 2. Customer Management
 
 Comprehensive customer details stored in the Customers sheet.
 
 Customer IDs linked with sales records using VLOOKUP for seamless data retrieval.
 
-3. Product Management
+## 3. Product Management
 
 Detailed product information maintained in the Products sheet.
 
 Each product identified by a unique HSN Code.
 
-4. Vendor Management
+## 4. Vendor Management
 
 Vendor details managed in the Vendors sheet.
 
 Enables tracking of suppliers for purchases.
 
-5. Purchase and Sales Tracking
+## 5. Purchase and Sales Tracking
 
 Purchase Sheet:
 
@@ -58,7 +58,7 @@ Records sales transactions.
 
 Customer names retrieved using VLOOKUP based on Customer IDs.
 
-6. Inventory Management
+## 6. Inventory Management
 
 Inventory Table:
 
@@ -68,7 +68,7 @@ Stock levels auto-updated using the formula:
 
 Tracks purchase and sales units for each product.
 
-7. Profit and Loss Analysis
+## 7. Profit and Loss Analysis
 
 Pivot Tables in the Pivots Sheet provide:
 
